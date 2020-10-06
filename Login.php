@@ -22,14 +22,8 @@ if ($result->num_rows > 0) {
        echo $row["id"];
 
        //Get users data here.
-
-       //Get player info.
-
-       //Get Inventory.
-
-       //Modify player data.
        
-       //Update inventory.
+       //Modify player data.
 
     }else
     {
